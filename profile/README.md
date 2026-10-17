@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./logo.png" width="180" alt="Kaoriel Studio Logo" />
+
 # 🌌 KAORIEL STUDIO
 *Enterprise-Grade Engineering Applied to Interactive Worlds & Developer Tooling*
 
